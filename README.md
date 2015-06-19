@@ -1,2 +1,2 @@
 # TESTING
-Testing     B-927345  B-927345
+Testing    B-927345
